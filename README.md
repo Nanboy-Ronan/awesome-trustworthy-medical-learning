@@ -22,3 +22,4 @@ Welcome to Med-Safe-ML, a collection of academic articles, published methodology
 | **Topic** | **Year** | **Paper** | **Code** |
 | :---------------: | :----: | :----: | :----: |
 | CLIP in medical imaging: A comprehensive survey | 2023 | [CLIP in medical imaging: A comprehensive survey](https://arxiv.org/pdf/2312.07353.pdf) | [Awesome-CLIP-in-Medical-Imaging](Awesome-CLIP-in-Medical-Imaging)|
+| Medical Large Multimodal Models | 2024 | N/A | [Awesome-Multimodal-Medical-Large-Models](https://github.com/LarryUESTC/Awesome-Multimodal-Medical-Large-Models?tab=readme-ov-file) |
