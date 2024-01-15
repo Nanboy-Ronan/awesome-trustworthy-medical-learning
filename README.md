@@ -14,6 +14,4 @@ Welcome to Med-Safe-ML, a collection of academic articles, published methodology
 ### Attacks and Defenses
 | **Paper Title** | **Year** | **Venue** | **Code** | **Summary** |
 | --------------- | :----: | :----: | :----: | ---- |
-| Shared Adversarial Unlearning: Backdoor Mitigation
-by Unlearning Shared Adversarial Examples | 2023 | NeurIPS | [SAU](https://github.com/SCLBD/BackdoorBench) | The paper proposed Shared Adversarial Unlearning (SAU), which it first generates shared adversarial examples (SAEs), and then, unlearns the generated SAEs such that they are either correctly classfied by the purified model and/or differently classified by the two models. |
-| --------------- | :----: | :----: | :----: | ---- |
+| Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples | 2023 | NeurIPS | [SAU](https://github.com/SCLBD/BackdoorBench) | The paper proposed Shared Adversarial Unlearning (SAU), which it first generates shared adversarial examples (SAEs), and then, unlearns the generated SAEs such that they are either correctly classfied by the purified model and/or differently classified by the two models. |
