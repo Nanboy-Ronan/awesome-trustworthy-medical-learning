@@ -6,6 +6,9 @@ Welcome to Med-Safe-ML, a collection of academic articles, published methodology
 ### Explanable Machine Learning
 | **Paper Title** | **Year** | **Venue** | **Code** | **Summary** |
 | :---------------: | :----: | :----: | :----: | ---- |
+| Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer | 2017 | ICLR | [attention-transfer](https://github.com/szagoruyko/attention-transfer) | This paper show that, by properly defining attention for convolutional neural networks, we can actually use this type of information in order to significantly improve the performance of a student CNN
+network by forcing it to mimic the attention maps of a powerful teacher network.
+To that end, we propose several novel methods of transferring attention, showing consistent improvement across a variety of datasets and convolutional neural network architectures. |
 
 ### Federated Learning
 | **Paper Title** | **Year** | **Venue** | **Code** | **Summary** |
