@@ -13,6 +13,8 @@ Welcome to Med-Safe-ML, a collection of academic articles, published methodology
 | **Paper Title** | **Year** | **Venue** | **Code** | **Summary** |
 | :---------------: | :----: | :----: | :----: | ---- |
 | FedProto: Federated Prototype Learning across Heterogeneous Clients | 2022 | AAAI | [FedProto](https://github.com/yuetan031/FedProto) | FedProto is a proto-type learning framework in which the clients and server communicate the abstract class prototypes instead of the gradients. The training on each clients aims to minimize the classification error on the local data while keeping the resulting local prototypes sufficiently close to the corresponding global ones. Global model aggregates prototypes. |
+| Subspace based Federated Unlearning | 2023 | ArXiv | N/A | This paper propose a simple-yet-effective subspace based FL method called SFU, that lets the global model perform gradient ascent in the orthogonal space of input gradient spaces formed by other clients to eliminate the target client's contribution without requiring additional storage. Specifically, the server first collects teh gradients generated from the target client after performing gradient ascent, and the input representation matrix is computed locally by the remaining clients. The paper also includs the differential privacy in the representation matrix. Then the server merges those representation matrices to get the input gradient subspace and updates the global model in the orthogonal subspace of the input gradient subspace to complete the forgetting task.|
+
 
 ### Attacks and Defenses
 | **Paper Title** | **Year** | **Venue** | **Code** | **Summary** |
