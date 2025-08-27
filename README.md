@@ -1,5 +1,10 @@
-# Med-Safe-ML
-Welcome to Med-Safe-ML, a collection of academic articles, published methodology and datasets on trustworthy machine learning in healthcare and medicine.
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/Nanboy-Ronan/awesome-trustworthy-medical-learning/graphs/commit-activity)
+![ ](https://img.shields.io/github/last-commit/Nanboy-Ronan/awesome-trustworthy-medical-learning)
+
+# Awesome Trustworthy Machine Learning in Medicine
+This repository is an awesome list dedicated to trustworthy machine learning in healthcare and medicine. It curates academic papers, methods, datasets, and open-source implementations that focus on making machine learning systems in medicine safe, explainable, privacy-preserving, and robust.
+
+With the rapid adoption of AI in healthcare, ensuring trustworthiness—in terms of fairness, interpretability, security, and compliance with ethical and legal standards—is critical. This collection serves as a resource for researchers, practitioners, and students to navigate the growing literature on responsible and reliable medical AI.
 
 ## Topics
 
